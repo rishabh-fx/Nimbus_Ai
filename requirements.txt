@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+openai
+pandas
+numpy
+python-dotenv
+pydantic
+streamlit
+requests
+plotly
+pymupdf
+python-docx
+faiss-cpu
+pytest
