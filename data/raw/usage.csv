@@ -1,0 +1,20 @@
+initiative_id,week,metric,value
+CP-01,1,WAU,280
+CP-01,2,WAU,310
+CP-01,3,WAU,340
+ cp-02,1,weekly_active_users,150
+ cp-02,2,weekly_active_users,120
+ cp-02,3,weekly_active_users,100
+BOT-01,1,active_users_wk,520
+BOT-01,2,active_users_wk,560
+BOT-01,3,active_users_wk,600
+BOT-02,1,WAU,300
+BOT-02,2,WAU,330
+BOT-02,2,WAU,330
+BOT-02,3,WAU,360
+PM-01,1,WAU,70
+PM-01,2,WAU,75
+PM-01,3,WAU,84
+PM-02,1,WAU,90
+PM-02,2,WAU,
+PM-02,3,WAU,100

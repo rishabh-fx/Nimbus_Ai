@@ -1,0 +1,7 @@
+initiative_id,name,type,go_live_date,licensed_users,planned_annual_benefit
+CP-01,HR Policy Copilot,copilot,2026-05-15,500,10000000.0
+CP-02,Sales Copilot,copilot,2026-08-15,400,6000000.0
+BOT-01,IT Helpdesk Bot,bot,2026-02-15,1000,3000000.0
+BOT-02,Customer FAQ Bot,bot,2026-07-15,800,5000000.0
+PM-01,Demand Forecasting Model,predictive,2026-03-15,120,8000000.0
+PM-02,Churn Predictor,predictive,2026-09-15,200,4000000.0
